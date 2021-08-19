@@ -1,2 +1,2 @@
 # NOTEPAD
-# link https://shrey-pokhriyal.github.io/NOTEPAD/
+link https://shrey-pokhriyal.github.io/NOTEPAD/
