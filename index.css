@@ -1,0 +1,47 @@
+body {
+    background-image:linear-gradient(#cbe470,#afdd6b);
+    font-family: 'Noto Serif', serif;
+}
+#hel{
+    border-radius: 0.5rem;
+}
+#hel:hover
+{
+background-color:green;
+
+color:white;
+margin:0;
+}
+#midheader{
+    display:flex;
+    text-align:center;
+    justify-content: center;
+    background-color:#a1c959;
+}
+#midheader h2
+{
+    text-align:center;
+}
+#notes{
+margin-top:2rem;
+}
+hr{
+    margin-top:1rem;
+}
+.card
+{
+    border: 2rem solid #a1c959;
+}
+#notes
+{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+img{
+    width: 20%;
+    justify-self: center;
+    align-self: center;
+    margin-top: 1rem;
+}
